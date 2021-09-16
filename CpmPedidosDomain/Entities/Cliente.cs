@@ -1,4 +1,4 @@
-﻿using CpmPedidosDomain.Entities;
+﻿using System.Collections.Generic;
 
 namespace CpmPedidosDomain.Domain
 {
@@ -12,6 +12,8 @@ namespace CpmPedidosDomain.Domain
         public virtual Endereco Endereco { get; set; }
 
         public bool Ativo { get; set; }
+
+        public virtual List<Pedido> Pedidos { get; set; }
 
         
 

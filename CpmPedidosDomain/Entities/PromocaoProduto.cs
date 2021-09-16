@@ -1,6 +1,4 @@
-﻿using CpmPedidosDomain.Entities;
-
-namespace CpmPedidosDomain.Domain
+﻿namespace CpmPedidosDomain.Domain
 {
     public class PromocaoProduto: BaseDomain, IExibivel
     {

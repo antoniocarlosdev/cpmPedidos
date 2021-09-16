@@ -1,4 +1,4 @@
-﻿using CpmPedidosDomain.Entities;
+﻿using System.Collections.Generic;
 
 namespace CpmPedidosDomain.Domain
 {
@@ -7,7 +7,8 @@ namespace CpmPedidosDomain.Domain
      
         public string Nome { get; set; }
         
-
         public bool Ativo { get; set; }
+
+        public virtual List<Produto> Produtos { get; set; }
     }
 }

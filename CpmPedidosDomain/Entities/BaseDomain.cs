@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CpmPedidosDomain.Entities
+namespace CpmPedidosDomain.Domain
 {
     public abstract class BaseDomain
     {

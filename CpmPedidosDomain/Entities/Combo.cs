@@ -1,5 +1,4 @@
-﻿using CpmPedidosDomain.Entities;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
 namespace CpmPedidosDomain.Domain
 {

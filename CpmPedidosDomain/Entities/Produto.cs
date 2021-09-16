@@ -1,5 +1,4 @@
-﻿using CpmPedidosDomain.Entities;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
 namespace CpmPedidosDomain.Domain
 {
@@ -15,6 +14,10 @@ namespace CpmPedidosDomain.Domain
         public virtual CategoriaProduto Categoria { get; set; }
 
         public virtual List<Imagem> Imagens { get; set; }
+
+        public virtual List<PromocaoProduto> Promocoes { get; set; }
+
+        public virtual List<Combo> Combos { get; set; }
 
         public bool Ativo { get; set; }
     }

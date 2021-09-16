@@ -1,16 +1,17 @@
-﻿using CpmPedidos.Repository.Maps;
-using CpmPedidosDomain.Domain;
+﻿using CpmPedidosDomain.Domain;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace CpmPedidos.Repository
 {
-    public class EnderecoMap: BaseDomainMap<Endereco>
+    public class EnderecoMap : BaseDomainMap<Endereco>
     {
-        EnderecoMap(): base("tb_endereco") { }
+        public EnderecoMap() : base("tb_endereco") { }
+
         public override void Configure(EntityTypeBuilder<Endereco> builder)
         {
             base.Configure(builder);
+            builder.HasKey(p => p.Id);
 
             builder.Property(x => x.Tipo).HasColumnName("tipo").IsRequired();
             builder.Property(x => x.Logradouro).HasColumnName("logradouro").HasMaxLength(50).IsRequired();
@@ -19,7 +20,10 @@ namespace CpmPedidos.Repository
             builder.Property(x => x.Complemento).HasColumnName("complemento").HasMaxLength(50);
             builder.Property(x => x.Cep).HasColumnName("cep").HasMaxLength(8);
 
-            builder.HasOne(x => x.Cliente).WithOne(x => x.Endereco).HasForeignKey<Cliente>(x => x.IdEndereco);
+            
+
+            builder.Property(x => x.IdCidade).HasColumnName("id_cidade").IsRequired();
+            builder.HasOne(x => x.Cidade).WithMany().HasForeignKey(x => x.IdCidade);
         }
     }
 }

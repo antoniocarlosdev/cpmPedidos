@@ -1,5 +1,4 @@
-﻿using CpmPedidosDomain.Entities;
-using CpmPedidosDomain.Enums;
+﻿using CpmPedidosDomain.Enums;
 
 namespace CpmPedidosDomain.Domain
 {

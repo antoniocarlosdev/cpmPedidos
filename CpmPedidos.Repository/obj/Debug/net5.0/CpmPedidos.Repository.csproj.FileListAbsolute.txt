@@ -1,3 +1,8 @@
+C:\Projetos\CpmPedidos\CpmPedidos.Repository\obj\Debug\net5.0\CpmPedidos.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CpmPedidos\CpmPedidos.Repository\obj\Debug\net5.0\CpmPedidos.Repository.AssemblyInfoInputs.cache
+C:\Projetos\CpmPedidos\CpmPedidos.Repository\obj\Debug\net5.0\CpmPedidos.Repository.AssemblyInfo.cs
+C:\Projetos\CpmPedidos\CpmPedidos.Repository\obj\Debug\net5.0\CpmPedidos.Repository.csproj.CoreCompileInputs.cache
+C:\Projetos\CpmPedidos\CpmPedidos.Repository\obj\Debug\net5.0\CpmPedidos.Repository.csproj.AssemblyReference.cache
 C:\Projetos\CpmPedidos\CpmPedidos.Repository\bin\Debug\net5.0\CpmPedidos.Repository.deps.json
 C:\Projetos\CpmPedidos\CpmPedidos.Repository\bin\Debug\net5.0\CpmPedidos.Repository.runtimeconfig.json
 C:\Projetos\CpmPedidos\CpmPedidos.Repository\bin\Debug\net5.0\CpmPedidos.Repository.runtimeconfig.dev.json
@@ -8,12 +13,6 @@ C:\Projetos\CpmPedidos\CpmPedidos.Repository\bin\Debug\net5.0\CpmPedidos.Interfa
 C:\Projetos\CpmPedidos\CpmPedidos.Repository\bin\Debug\net5.0\CpmPedidosDomain.dll
 C:\Projetos\CpmPedidos\CpmPedidos.Repository\bin\Debug\net5.0\CpmPedidos.Interfaces.pdb
 C:\Projetos\CpmPedidos\CpmPedidos.Repository\bin\Debug\net5.0\CpmPedidosDomain.pdb
-C:\Projetos\CpmPedidos\CpmPedidos.Repository\obj\Debug\net5.0\CpmPedidos.Repository.csproj.AssemblyReference.cache
-C:\Projetos\CpmPedidos\CpmPedidos.Repository\obj\Debug\net5.0\CpmPedidos.Repository.GeneratedMSBuildEditorConfig.editorconfig
-C:\Projetos\CpmPedidos\CpmPedidos.Repository\obj\Debug\net5.0\CpmPedidos.Repository.AssemblyInfoInputs.cache
-C:\Projetos\CpmPedidos\CpmPedidos.Repository\obj\Debug\net5.0\CpmPedidos.Repository.AssemblyInfo.cs
-C:\Projetos\CpmPedidos\CpmPedidos.Repository\obj\Debug\net5.0\CpmPedidos.Repository.csproj.CoreCompileInputs.cache
-C:\Projetos\CpmPedidos\CpmPedidos.Repository\obj\Debug\net5.0\CpmPedidos.Repository.csproj.CopyComplete
 C:\Projetos\CpmPedidos\CpmPedidos.Repository\obj\Debug\net5.0\CpmPedidos.Repository.dll
 C:\Projetos\CpmPedidos\CpmPedidos.Repository\obj\Debug\net5.0\ref\CpmPedidos.Repository.dll
 C:\Projetos\CpmPedidos\CpmPedidos.Repository\obj\Debug\net5.0\CpmPedidos.Repository.pdb
