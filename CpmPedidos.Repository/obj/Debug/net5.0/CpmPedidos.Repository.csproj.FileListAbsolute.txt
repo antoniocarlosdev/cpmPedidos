@@ -17,3 +17,4 @@ C:\Projetos\CpmPedidos\CpmPedidos.Repository\obj\Debug\net5.0\CpmPedidos.Reposit
 C:\Projetos\CpmPedidos\CpmPedidos.Repository\obj\Debug\net5.0\ref\CpmPedidos.Repository.dll
 C:\Projetos\CpmPedidos\CpmPedidos.Repository\obj\Debug\net5.0\CpmPedidos.Repository.pdb
 C:\Projetos\CpmPedidos\CpmPedidos.Repository\obj\Debug\net5.0\CpmPedidos.Repository.genruntimeconfig.cache
+C:\Projetos\CpmPedidos\CpmPedidos.Repository\obj\Debug\net5.0\CpmPedidos.Repository.csproj.CopyComplete

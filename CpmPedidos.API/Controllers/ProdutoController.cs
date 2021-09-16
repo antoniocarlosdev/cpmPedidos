@@ -1,4 +1,5 @@
-﻿using CpmPedidosDomain.Domain;
+﻿using CpmPedidos.Interfaces;
+using CpmPedidosDomain.Domain;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -16,9 +17,10 @@ namespace CpmPedidos.API.Controllers
         }
 
         [HttpGet]
-        public IEnumerable<Produto> Get
+        public IEnumerable<Produto> Get ()
         {
-
+           var rep = (IProdutoRepository) ServiceProvider.GetService(typeof(IProdutoRepository));
+            return rep.Get();
         }
     }
 }
