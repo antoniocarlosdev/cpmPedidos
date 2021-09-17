@@ -1,5 +1,5 @@
 ﻿using CpmPedidos.Interfaces;
-using CpmPedidos.Repository.Repositories;
+using CpmPedidos.Repository;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace CpmPedidos.API

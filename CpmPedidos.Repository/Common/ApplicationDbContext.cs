@@ -24,7 +24,13 @@ namespace CpmPedidos.Repository
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
             ChangeTracker.AutoDetectChangesEnabled = false;
+
         }
+        /*protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            optionsBuilder.UseNpgsql("User ID=postgres;Password=postgres;Host=localhost;Port=5432;Database=CpmPedidos;");
+
+        }*/
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);

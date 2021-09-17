@@ -12,3 +12,4 @@ C:\Projetos\CpmPedidos\CpmPedidosDomain\obj\Debug\net5.0\CpmPedidosDomain.pdb
 C:\Projetos\CpmPedidos\CpmPedidosDomain\bin\Debug\net5.0\CpmPedidosDomain.runtimeconfig.json
 C:\Projetos\CpmPedidos\CpmPedidosDomain\bin\Debug\net5.0\CpmPedidosDomain.runtimeconfig.dev.json
 C:\Projetos\CpmPedidos\CpmPedidosDomain\obj\Debug\net5.0\CpmPedidosDomain.genruntimeconfig.cache
+C:\Projetos\CpmPedidos\CpmPedidosDomain\obj\Debug\net5.0\CpmPedidosDomain.csproj.AssemblyReference.cache

@@ -1,9 +1,3 @@
-C:\Projetos\CpmPedidos\CpmPedidos.API\obj\Debug\net5.0\CpmPedidos.API.GeneratedMSBuildEditorConfig.editorconfig
-C:\Projetos\CpmPedidos\CpmPedidos.API\obj\Debug\net5.0\CpmPedidos.API.AssemblyInfoInputs.cache
-C:\Projetos\CpmPedidos\CpmPedidos.API\obj\Debug\net5.0\CpmPedidos.API.AssemblyInfo.cs
-C:\Projetos\CpmPedidos\CpmPedidos.API\obj\Debug\net5.0\CpmPedidos.API.csproj.CoreCompileInputs.cache
-C:\Projetos\CpmPedidos\CpmPedidos.API\obj\Debug\net5.0\CpmPedidos.API.MvcApplicationPartsAssemblyInfo.cache
-C:\Projetos\CpmPedidos\CpmPedidos.API\obj\Debug\net5.0\CpmPedidos.API.csproj.AssemblyReference.cache
 C:\Projetos\CpmPedidos\CpmPedidos.API\bin\Debug\net5.0\appsettings.Development.json
 C:\Projetos\CpmPedidos\CpmPedidos.API\bin\Debug\net5.0\appsettings.json
 C:\Projetos\CpmPedidos\CpmPedidos.API\bin\Debug\net5.0\CpmPedidos.API.exe
@@ -56,6 +50,12 @@ C:\Projetos\CpmPedidos\CpmPedidos.API\bin\Debug\net5.0\CpmPedidosDomain.dll
 C:\Projetos\CpmPedidos\CpmPedidos.API\bin\Debug\net5.0\CpmPedidos.Interfaces.pdb
 C:\Projetos\CpmPedidos\CpmPedidos.API\bin\Debug\net5.0\CpmPedidos.Repository.pdb
 C:\Projetos\CpmPedidos\CpmPedidos.API\bin\Debug\net5.0\CpmPedidosDomain.pdb
+C:\Projetos\CpmPedidos\CpmPedidos.API\obj\Debug\net5.0\CpmPedidos.API.csproj.AssemblyReference.cache
+C:\Projetos\CpmPedidos\CpmPedidos.API\obj\Debug\net5.0\CpmPedidos.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CpmPedidos\CpmPedidos.API\obj\Debug\net5.0\CpmPedidos.API.AssemblyInfoInputs.cache
+C:\Projetos\CpmPedidos\CpmPedidos.API\obj\Debug\net5.0\CpmPedidos.API.AssemblyInfo.cs
+C:\Projetos\CpmPedidos\CpmPedidos.API\obj\Debug\net5.0\CpmPedidos.API.csproj.CoreCompileInputs.cache
+C:\Projetos\CpmPedidos\CpmPedidos.API\obj\Debug\net5.0\CpmPedidos.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Projetos\CpmPedidos\CpmPedidos.API\obj\Debug\net5.0\scopedcss\bundle\CpmPedidos.API.styles.css
 C:\Projetos\CpmPedidos\CpmPedidos.API\obj\Debug\net5.0\staticwebassets\CpmPedidos.API.StaticWebAssets.Manifest.cache
 C:\Projetos\CpmPedidos\CpmPedidos.API\obj\Debug\net5.0\CpmPedidos.API.RazorTargetAssemblyInfo.cache
