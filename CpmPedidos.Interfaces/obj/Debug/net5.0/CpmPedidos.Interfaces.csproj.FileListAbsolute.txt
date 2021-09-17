@@ -9,7 +9,7 @@ C:\Projetos\CpmPedidos\CpmPedidos.Interfaces\obj\Debug\net5.0\CpmPedidos.Interfa
 C:\Projetos\CpmPedidos\CpmPedidos.Interfaces\obj\Debug\net5.0\CpmPedidos.Interfaces.AssemblyInfoInputs.cache
 C:\Projetos\CpmPedidos\CpmPedidos.Interfaces\obj\Debug\net5.0\CpmPedidos.Interfaces.AssemblyInfo.cs
 C:\Projetos\CpmPedidos\CpmPedidos.Interfaces\obj\Debug\net5.0\CpmPedidos.Interfaces.csproj.CoreCompileInputs.cache
-C:\Projetos\CpmPedidos\CpmPedidos.Interfaces\obj\Debug\net5.0\CpmPedidos.Interfaces.csproj.CopyComplete
 C:\Projetos\CpmPedidos\CpmPedidos.Interfaces\obj\Debug\net5.0\CpmPedidos.Interfaces.dll
 C:\Projetos\CpmPedidos\CpmPedidos.Interfaces\obj\Debug\net5.0\ref\CpmPedidos.Interfaces.dll
 C:\Projetos\CpmPedidos\CpmPedidos.Interfaces\obj\Debug\net5.0\CpmPedidos.Interfaces.pdb
+C:\Projetos\CpmPedidos\CpmPedidos.Interfaces\obj\Debug\net5.0\CpmPedidos.Interfaces.csproj.CopyComplete

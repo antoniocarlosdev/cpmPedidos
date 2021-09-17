@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Co5c4zvz9ubMkr/V31eSVSNWkT6ieuqRZSZtUv7BJHZsWwMvEEzJK+Jk9xdgDXXeLPgAFy8AFhQ5bmQOyJ5U/A==",
+  "dgSpecHash": "kwNhIc0MQhku9b09jMEPG9KkgzMT2bGf8tfrhYyfV5dhGciBP1rrWHXWpFBYSmOVTxEqX7Mf4PwUpxoNJyAwOg==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\CpmPedidos\\CpmPedidos.API\\CpmPedidos.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tatai\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
-    "C:\\Users\\tatai\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.9\\microsoft.aspnetcore.jsonpatch.5.0.9.nupkg.sha512",
-    "C:\\Users\\tatai\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.9\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.9.nupkg.sha512",
+    "C:\\Users\\tatai\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.10\\microsoft.aspnetcore.jsonpatch.5.0.10.nupkg.sha512",
+    "C:\\Users\\tatai\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.10\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.10.nupkg.sha512",
     "C:\\Users\\tatai\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\tatai\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\tatai\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",

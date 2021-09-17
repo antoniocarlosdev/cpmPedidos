@@ -17,9 +17,9 @@ namespace CpmPedidos.API.Controllers
         }
 
         [HttpGet]
-        public IEnumerable<Produto> Get ()
+        public IEnumerable<Produto> Get()
         {
-           var rep = (IProdutoRepository) ServiceProvider.GetService(typeof(IProdutoRepository));
+            var rep = (IProdutoRepository)ServiceProvider.GetService(typeof(IProdutoRepository));
             return rep.Get();
         }
 
@@ -29,6 +29,21 @@ namespace CpmPedidos.API.Controllers
         {
             var rep = (IProdutoRepository)ServiceProvider.GetService(typeof(IProdutoRepository));
             return rep.Search(text);
+        }
+
+        [HttpGet]
+        [Route("{id}")]
+        public Produto Detail(int? id)
+        {
+            if ((id ?? 0) > 0)
+            {
+                var rep = (IProdutoRepository)ServiceProvider.GetService(typeof(IProdutoRepository));
+                return rep.Detail(id.Value);
+            }
+            else
+            {
+                return null;
+            }
         }
     }
 }
