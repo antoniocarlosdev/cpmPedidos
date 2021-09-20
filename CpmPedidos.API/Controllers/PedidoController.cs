@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using CpmPedidos.Interfaces;
+using Microsoft.AspNetCore.Mvc;
 using System;
 
 namespace CpmPedidos.API.Controllers
@@ -11,6 +12,14 @@ namespace CpmPedidos.API.Controllers
         public PedidoController(IServiceProvider serviceProvider) : base(serviceProvider)
         {
          
+        }
+
+        [HttpGet]
+        [Route("ticket-maximo")]
+        public decimal TicketMaximo()
+        {
+            var rep = (IPedidoRepository)ServiceProvider.GetService(typeof(IPedidoRepository));
+            return rep.TicketMaximo();
         }
     }
 }
