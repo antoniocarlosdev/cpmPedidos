@@ -17,7 +17,7 @@ namespace CpmPedidos.API.Controllers
         }
 
         [HttpGet]
-        public IEnumerable<Produto> Get()
+        public dynamic Get()
         {
             var rep = (IProdutoRepository)ServiceProvider.GetService(typeof(IProdutoRepository));
             return rep.Get();
@@ -33,7 +33,7 @@ namespace CpmPedidos.API.Controllers
 
         [HttpGet]
         [Route("{id}")]
-        public Produto Detail(int? id)
+        public dynamic Detail(int? id)
         {
             if ((id ?? 0) > 0)
             {
@@ -45,5 +45,22 @@ namespace CpmPedidos.API.Controllers
                 return null;
             }
         }
+
+        [HttpGet]
+        [Route("{id}/imagens")]
+        public dynamic Imagens(int? id)
+        {
+            if ((id ?? 0) > 0)
+            {
+                var rep = (IProdutoRepository)ServiceProvider.GetService(typeof(IProdutoRepository));
+                return rep.Imagens(id.Value);
+            }
+            else
+            {
+                return null;
+            }
+        }
+
     }
+
 }
