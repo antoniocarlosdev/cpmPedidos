@@ -5,8 +5,8 @@ namespace CpmPedidos.Interfaces
 {
     public interface IProdutoRepository
     {
-        dynamic Get();
-        dynamic Search(string text, int pagina);
+        dynamic Get(string ordem);
+        dynamic Search(string text, int pagina, string ordem);
         dynamic Detail(int id);
         public dynamic Imagens(int id);
     }
