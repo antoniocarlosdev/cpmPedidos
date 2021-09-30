@@ -59,8 +59,8 @@ C:\Projetos\CpmPedidos\CpmPedidos.API\obj\Debug\net5.0\CpmPedidos.API.MvcApplica
 C:\Projetos\CpmPedidos\CpmPedidos.API\obj\Debug\net5.0\scopedcss\bundle\CpmPedidos.API.styles.css
 C:\Projetos\CpmPedidos\CpmPedidos.API\obj\Debug\net5.0\staticwebassets\CpmPedidos.API.StaticWebAssets.Manifest.cache
 C:\Projetos\CpmPedidos\CpmPedidos.API\obj\Debug\net5.0\CpmPedidos.API.RazorTargetAssemblyInfo.cache
+C:\Projetos\CpmPedidos\CpmPedidos.API\obj\Debug\net5.0\CpmPedidos.API.csproj.CopyComplete
 C:\Projetos\CpmPedidos\CpmPedidos.API\obj\Debug\net5.0\CpmPedidos.API.dll
 C:\Projetos\CpmPedidos\CpmPedidos.API\obj\Debug\net5.0\ref\CpmPedidos.API.dll
 C:\Projetos\CpmPedidos\CpmPedidos.API\obj\Debug\net5.0\CpmPedidos.API.pdb
 C:\Projetos\CpmPedidos\CpmPedidos.API\obj\Debug\net5.0\CpmPedidos.API.genruntimeconfig.cache
-C:\Projetos\CpmPedidos\CpmPedidos.API\obj\Debug\net5.0\CpmPedidos.API.csproj.CopyComplete
